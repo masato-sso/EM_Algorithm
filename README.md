@@ -1,6 +1,6 @@
-## EM_Algorithm
+# EM_Algorithm
 
-# EM.ipynb
+### EM.ipynb
 ランダムな円を均等に配置した結果を出力する。赤丸はランダムに配置された円、青丸は赤丸をEMアルゴリズムを使って均等な位置に配置した円を示す。  
-# EM_mp4.ipynb
+### EM_mp4.ipynb
 赤丸から青丸に移動する様子を動画で出力する。
